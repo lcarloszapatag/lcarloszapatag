@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - mi twitter https://twitter.com/lcarloszapatag
+-¿Quieres un descuento en https://ed.team? cupon de descuento ed.team/premium?cupon=REF-2327
 
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
