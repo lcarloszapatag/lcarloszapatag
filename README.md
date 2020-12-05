@@ -1,6 +1,7 @@
 ###  
-Zapata Software - @lcarloszapatag :colombia:
-Bienvenido 👋
+Bienvenido 👋 a mi cuenta de github:
+Zapata Software - https://github.com/lcarloszapatag  @lcarloszapatag :colombia:
+
 
 :computer: Software Development  :colombia:
 with backend technologies 🐘 #PHP.
