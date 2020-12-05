@@ -2,6 +2,10 @@
 Zapata Software - @lcarloszapatag co
 Bienvenido 👋
 
+Software Development  🇨🇴
+with backend technologies 🐘 #PHP.
+Learning #Javascript technologies
+
 
 
 - mi twitter https://twitter.com/lcarloszapatag
