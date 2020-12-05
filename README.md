@@ -5,7 +5,7 @@ Bienvenido 👋 a mi cuenta de github:
 
 :computer: Software Development  :colombia:
 with backend technologies 🐘 [PHP](https://www.php.net/).
-Learning #Javascript technologies
+Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
 
 
 
