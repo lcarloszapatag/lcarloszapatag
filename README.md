@@ -1,6 +1,6 @@
 ###  
 Bienvenido 👋 a mi cuenta de github:
-[Zapata Software - https://github.com/lcarloszapatag ] @lcarloszapatag ):colombia:
+[Zapata Software - (https://github.com/lcarloszapatag ]) @lcarloszapatag :colombia:
 
 
 :computer: Software Development  :colombia:
