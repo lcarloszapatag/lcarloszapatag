@@ -10,7 +10,8 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 
 
 - mi twitter https://twitter.com/lcarloszapatag
--¿Quieres un descuento en https://ed.team? cupon de descuento https://ed.team/premium?cupon=REF-2327
+
+-¿Quieres un descuento en [Edteam](https://ed.team). ? mi cupon de descuento https://ed.team/premium?cupon=REF-2327
 
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
