@@ -3,14 +3,16 @@ Bienvenido 👋 a mi cuenta de github:
 [Zapata Software ](https://github.com/lcarloszapatag ). @lcarloszapatag :colombia:
 
 
-:computer: Software Development  :colombia:
-with backend technologies 🐘 [PHP](https://www.php.net/).
-Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
-
 
 
 
  ##
+ 
+:computer: Software Development  :colombia:
+with backend technologies 🐘 [PHP](https://www.php.net/).
+Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
+
+ 
  - mi twitter https://twitter.com/lcarloszapatag
 
  - ¿Quieres un descuento en [Edteam](https://ed.team). ? apoyame :technologist: y com  mi cupon obtene un descuento en esta plataforma educativa  https://ed.team/premium?cupon=REF-2327
