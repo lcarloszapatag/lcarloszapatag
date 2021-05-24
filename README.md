@@ -15,7 +15,7 @@ with backend technologies 🐘 [PHP](https://www.php.net/).
 Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
 
  
-
+# ¿Deseas apoyarme?
 
  - ¿Quieres un descuento en [Edteam](https://ed.team). ? apoyame :technologist: y com  mi cupon obtene un descuento en esta plataforma educativa  https://ed.team/premium?cupon=REF-2327
  - ¿Vas a adquir un plan en [platzi](https://platzi.com/). ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
