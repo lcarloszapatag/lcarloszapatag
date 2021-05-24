@@ -23,7 +23,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
  - ¿Quieres un descuento en [Edteam](https://ed.team). ? apoyame :technologist: y com  mi cupon obtene un descuento en esta plataforma educativa  https://ed.team/premium?cupon=REF-2327
  - ¿Vas a adquir un plan en [platzi](https://platzi.com/). ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
 
-## My Tecnologias mas usadas 🧰
+## Mi Tecnologías mas usadas 🧰
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png" alt="python" width="40" height="40"/> 
