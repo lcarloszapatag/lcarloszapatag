@@ -33,7 +33,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
- -
+### Mi Redes sociales
 <p align="center">
 <a href="https://twitter.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter jdnichollsc" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn luis carlos zapata" height="30" width="30" /></a>
