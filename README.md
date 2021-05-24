@@ -39,7 +39,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 </p>
 
 * My primary coding language: PHP
-* My  favorite framework:laravel[ https://laravel.com/]
+* My  favorite framework:[laravel]( https://laravel.com/)
 
 ### Mi Redes sociales
 <p align="center">
