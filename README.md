@@ -26,7 +26,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 <a href="https://linkedin.com/in/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn luis carlos zapata" height="30" width="30" /></a>
 <a href="https://fb.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook " height="30" width="30" /></a>
 <a href="https://www.codepen.io/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt=" " height="30" width="30" /></a>
-  <a href="https://www.codepen.io/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt=" " height="30" width="30" /></a>
+  <a href="https://pinterest.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt=" " height="30" width="30" /></a>
 </p>
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
