@@ -44,7 +44,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 </p>
 
 * My primary coding language: PHP
-* My framwork favorite:laravel 
+* My  favorite framework:laravel 
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
