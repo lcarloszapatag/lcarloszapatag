@@ -1,7 +1,7 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Luis Carlos Zapata](https://github.com/lcarloszapatag) NickName:[lcarloszapatag](https://github.com/lcarloszapatag) 
 
 
-### 
+##
 ![GitHub Profile](https://avatars.githubusercontent.com/u/3011518?v=4?raw=true)
 
 Console.log('Hola,Bienvenido 👋 a mi cuenta de github') :
@@ -18,7 +18,7 @@ with backend technologies 🐘 [PHP](https://www.php.net/).
 Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
 
  
-# ¿Deseas apoyarme?
+## ¿Deseas apoyarme?
 
  - ¿Quieres un descuento en [Edteam](https://ed.team). ? apoyame :technologist: y com  mi cupon obtene un descuento en esta plataforma educativa  https://ed.team/premium?cupon=REF-2327
  - ¿Vas a adquir un plan en [platzi](https://platzi.com/). ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
