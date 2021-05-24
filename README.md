@@ -1,5 +1,6 @@
 ### 
-![GitHub Profile](https://edteam-media.s3.amazonaws.com/users/avatar/04fa1883-e999-4abf-84c1-80758a61b5dd.png?raw=true)
+![GitHub Profile](https://avatars.githubusercontent.com/u/3011518?v=4?raw=true)
+
 Console.log('Hola') Bienvenido 👋 a mi cuenta de github:
 [Zapata Software ](https://github.com/lcarloszapatag ). @lcarloszapatag :colombia:
 
