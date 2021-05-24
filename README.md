@@ -33,6 +33,9 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
+* My primary coding language: PHP
+* My  favorite framework:laravel 
+
 ### Mi Redes sociales
 <p align="center">
 <a href="https://twitter.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter jdnichollsc" height="30" width="30" /></a>
@@ -43,8 +46,7 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
   <a href="https://instagram.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt=" " height="30" width="30" /></a>
 </p>
 
-* My primary coding language: PHP
-* My  favorite framework:laravel 
+
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
