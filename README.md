@@ -33,6 +33,7 @@ myGitHub(NickName)
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
+
  * :computer: Software Development  :colombia:
 with backend technologies 🐘 [PHP](https://www.php.net/).
 Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
