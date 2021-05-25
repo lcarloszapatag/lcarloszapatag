@@ -20,27 +20,6 @@ myGitHub(NickName)
 
 
 ```
- * :computer: Software Development  :colombia:
-with backend technologies 🐘 [PHP](https://www.php.net/).
-Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
-
-
- ##
- 
-
-
- 
-## ¿Deseas apoyarme?
-- ¿Vas a adquir un plan en <a href="http://platzi.com"> <img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/platzi.png?raw=true " alt="" width="40" height="40"/>  [platzi](https://platzi.com/) ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
-
-- ¿Vas a adquir un plan en  <a href="http://ed.team"><img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/logo-edteam.png?raw=true " alt="" width="80" height="40"/>  [Edteam](https://ed.team/) ?apoyame :technologist:  obten un mes gratis con mi enlace de referidos https://ed.team/premium?cupon=REF-2327
-
-
-
- 
-
-
-
 
 ## Mi Tecnologías mas usadas 🧰
 
@@ -54,9 +33,26 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
-
+ * :computer: Software Development  :colombia:
+with backend technologies 🐘 [PHP](https://www.php.net/).
+Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). technologies
+  
 * My primary coding language: PHP
 * My  favorite framework: [Laravel]( https://laravel.com/)
+
+
+
+## ¿Deseas apoyarme?
+- ¿Vas a adquir un plan en <a href="http://platzi.com"> <img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/platzi.png?raw=true " alt="" width="40" height="40"/>  [platzi](https://platzi.com/) ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
+
+- ¿Vas a adquir un plan en  <a href="http://ed.team"><img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/logo-edteam.png?raw=true " alt="" width="80" height="40"/>  [Edteam](https://ed.team/) ?apoyame :technologist:  obten un mes gratis con mi enlace de referidos https://ed.team/premium?cupon=REF-2327
+
+
+
+ 
+
+
+
 
 ### Mi Redes sociales
 <p align="center">
