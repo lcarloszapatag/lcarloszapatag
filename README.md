@@ -21,9 +21,9 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
 
  
 ## ¿Deseas apoyarme?
-- ¿Vas a adquir un plan en  <img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/platzi.png?raw=true " alt="" width="40" height="40"/>  [platzi](https://platzi.com/) ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
+- ¿Vas a adquir un plan en <a href="http://platzi.com"> <img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/platzi.png?raw=true " alt="" width="40" height="40"/>  [platzi](https://platzi.com/) ? obten un mes gratis con mi enlace de referidos https://platzi.com/r/lcarloszapatag/
 
-- ¿Vas a adquir un plan en  <img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/logo-edteam.png?raw=true " alt="" width="80" height="40"/>  [Edteam](https://ed.team/) ?apoyame :technologist:  obten un mes gratis con mi enlace de referidos https://ed.team/premium?cupon=REF-2327
+- ¿Vas a adquir un plan en  <a href="http://ed.team"><img src="https://github.com/lcarloszapatag/lcarloszapatag/blob/master/logo-edteam.png?raw=true " alt="" width="80" height="40"/>  [Edteam](https://ed.team/) ?apoyame :technologist:  obten un mes gratis con mi enlace de referidos https://ed.team/premium?cupon=REF-2327
 
 
 
