@@ -2,9 +2,9 @@
 
 
 
-<div align="center">
+
   ![GitHub Profile](https://avatars.githubusercontent.com/u/3011518?v=4?raw=true)
-  </div>
+  
 
 Console.log('Hola,Bienvenido 👋 a mi cuenta de github') :
 [Zapata Software ](https://github.com/lcarloszapatag ). @lcarloszapatag :colombia:
