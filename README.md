@@ -9,14 +9,15 @@
 
 
 ```
-function NickNameGit(gitHubName) {
-
-Console.log('Hola,Bienvenido 👋 a mi cuenta de github'+gitHubName)
-  
-   
+function myGitHub(NickName) {
+ 
+  console.log('Hola,Bienvenido 👋 a mi cuenta de github ' + NickName)
 }
 
-NickNameGit(lcarloszapatag)
+
+
+ let NickName = "lcarloszapatag";
+myGitHub(NickName)
 
 
 ```
