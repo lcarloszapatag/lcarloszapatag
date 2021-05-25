@@ -11,7 +11,7 @@
 ```
 function myGitHub(NickName) {
  
-  console.log('Hola,Bienvenido 👋 a mi cuenta de github ' + NickName)
+console.log('Hola,Bienvenido 👋 a mi cuenta de github ' + NickName)
 }
 
 
