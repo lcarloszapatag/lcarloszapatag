@@ -64,7 +64,9 @@ Learning [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript). tec
   <a href="https://pinterest.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt=" " height="30" width="30" /></a>
   <a href="https://instagram.com/lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt=" " height="30" width="30" /></a>
 </p>
-
+<a rel="me" href="https://mstdn.social/@lcarloszapatag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt=" " height="30" width="30" />Mastodon<</a>
+</p>
+  
 
 <!--
 **lcarloszapatag/lcarloszapatag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
